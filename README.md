@@ -16,7 +16,7 @@ Implementation requirements:
 + Use [**React Testing Library**](https://testing-library.com/docs/react-testing-library/cheatsheet) to create unit tests to test your code.
 
 Instructions:
-1. To start this project we need to add a component that allows us to select a duedate for our tasks.
+1. To start this project we need to add a component that allows us to select a due date for our tasks.
     + To add the Date Picker add these imports to `src/component/AddTodo.js` 
     ```
     import { DesktopDatePicker , LocalizationProvider} from '@mui/x-date-pickers';
